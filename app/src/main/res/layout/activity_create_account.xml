@@ -108,7 +108,7 @@ tools:context="io.github.alexlondon07.platzigram.view.CreateAccountActivity">
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/text_button_create_account"
-            android:theme="@style/RaisedButtonDark"
+            android:theme="@style/RaiseButtonDark"
             />
 
 
