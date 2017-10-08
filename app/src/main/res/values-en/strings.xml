@@ -9,4 +9,8 @@
     <string name="hint_confirm_password">Confirmar contraseña</string>
     <string name="text_button_create_account">Únete</string>
     <string name="toolar_title_createaccount">Create account</string>
+    <string name="username_card">Alexander</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumbercard_card">10 Me gusta</string>
 </resources>
